@@ -1,0 +1,102 @@
+[
+  {
+    "id": 63,
+    "name": "Грузинское вино 'Саперави'",
+    "price": "1200 ₽",
+    "description": "Традиционное грузинское красное вино Саперави. Богатый вкус и аромат.",
+    "country": "Грузия",
+    "category": "Алкоголь",
+    "images": ["https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"],
+    "tags": ["georgia", "alcohol"]
+  },
+  {
+    "id": 64,
+    "name": "Грузинские специи 'Хмели-сунели'",
+    "price": "450 ₽",
+    "description": "Набор традиционных грузинских специй. Включает хмели-сунели и другие травы.",
+    "country": "Грузия",
+    "category": "Специи",
+    "images": ["https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"],
+    "tags": ["georgia", "spices"]
+  },
+  {
+    "id": 69,
+    "name": "Грузинское вино 'Ркацители'",
+    "price": "1100 ₽",
+    "description": "Грузинское белое вино Ркацители. Легкое и ароматное.",
+    "country": "Грузия",
+    "category": "Алкоголь",
+    "images": ["https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"],
+    "tags": ["georgia", "alcohol"]
+  },
+  {
+    "id": 70,
+    "name": "Грузинские специи 'Уцхо-сунели'",
+    "price": "380 ₽",
+    "description": "Грузинская специя уцхо-сунели. Для приготовления национальных блюд.",
+    "country": "Грузия",
+    "category": "Специи",
+    "images": ["https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"],
+    "tags": ["georgia", "spices"]
+  },
+  {
+    "id": 75,
+    "name": "Грузинское вино 'Киндзмараули'",
+    "price": "1800 ₽",
+    "description": "Грузинское полусладкое вино Киндзмараули. Королевское вино.",
+    "country": "Грузия",
+    "category": "Алкоголь",
+    "images": ["https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"],
+    "tags": ["georgia", "alcohol"]
+  },
+  {
+    "id": 76,
+    "name": "Грузинские специи 'Имеретинский шафран'",
+    "price": "650 ₽",
+    "description": "Грузинская специя имеретинский шафран. Для риса и блюд.",
+    "country": "Грузия",
+    "category": "Специи",
+    "images": ["https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"],
+    "tags": ["georgia", "spices"]
+  },
+  {
+    "id": 81,
+    "name": "Грузинское вино 'Хванчкара'",
+    "price": "1600 ₽",
+    "description": "Грузинское красное вино Хванчкара. Полусладкое и ароматное.",
+    "country": "Грузия",
+    "category": "Алкоголь",
+    "images": ["https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"],
+    "tags": ["georgia", "alcohol"]
+  },
+  {
+    "id": 82,
+    "name": "Грузинские специи 'Аджика'",
+    "price": "420 ₽",
+    "description": "Грузинская аджика. Острая приправа для мяса.",
+    "country": "Грузия",
+    "category": "Специи",
+    "images": ["https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"],
+    "tags": ["georgia", "spices"]
+  },
+  {
+    "id": 87,
+    "name": "Грузинское вино 'Мукузани'",
+    "price": "1400 ₽",
+    "description": "Грузинское красное вино Мукузани. Сухое и терпкое.",
+    "country": "Грузия",
+    "category": "Алкоголь",
+    "images": ["https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"],
+    "tags": ["georgia", "alcohol"]
+  },
+  {
+    "id": 88,
+    "name": "Грузинские специи 'Сванская соль'",
+    "price": "580 ₽",
+    "description": "Грузинская сванская соль. Смесь специй и соли.",
+    "country": "Грузия",
+    "category": "Специи",
+    "images": ["https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"],
+    "tags": ["georgia", "spices"]
+  }
+] 

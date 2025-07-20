@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Сербская минеральная вода 'Knjaz Milos'",
+    "price": "120 ₽",
+    "description": "Натуральная минеральная вода из сербских источников Knjaz Milos. Богата минералами и микроэлементами.",
+    "country": "Сербия",
+    "category": "Напитки",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "drinks"]
+  },
+  {
+    "id": 2,
+    "name": "Сербский сок 'Nectar'",
+    "price": "180 ₽",
+    "description": "Натуральный сербский сок из свежих фруктов. Без консервантов и красителей.",
+    "country": "Сербия",
+    "category": "Напитки",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "drinks"]
+  },
+  {
+    "id": 3,
+    "name": "Сербское пиво 'Jelen'",
+    "price": "250 ₽",
+    "description": "Традиционное сербское пиво Jelen, сваренное по старинным рецептам.",
+    "country": "Сербия",
+    "category": "Алкоголь",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "alcohol"]
+  },
+  {
+    "id": 4,
+    "name": "Сербская ракия 'Zlatna'",
+    "price": "1800 ₽",
+    "description": "Традиционная сербская ракия из слив. Крепкий алкогольный напиток с богатым вкусом.",
+    "country": "Сербия",
+    "category": "Алкоголь",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "alcohol"]
+  },
+  {
+    "id": 5,
+    "name": "Сербские специи 'Aroma'",
+    "price": "600 ₽",
+    "description": "Набор традиционных сербских специй для приготовления национальных блюд.",
+    "country": "Сербия",
+    "category": "Специи",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "spices"]
+  },
+  {
+    "id": 6,
+    "name": "Сербский мед 'Vojvodina'",
+    "price": "1200 ₽",
+    "description": "Натуральный сербский мед с пасек Воеводины. Богат витаминами и минералами.",
+    "country": "Сербия",
+    "category": "Продукты питания",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "food"]
+  },
+  {
+    "id": 7,
+    "name": "Сербское вино 'Prokupac'",
+    "price": "1500 ₽",
+    "description": "Красное сербское вино из сорта винограда Prokupac. Богатый вкус и аромат.",
+    "country": "Сербия",
+    "category": "Алкоголь",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "alcohol"]
+  },
+  {
+    "id": 8,
+    "name": "Сербский сыр 'Kajmak'",
+    "price": "800 ₽",
+    "description": "Традиционный сербский сыр Kajmak. Сливочный и нежный вкус.",
+    "country": "Сербия",
+    "category": "Продукты питания",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "food"]
+  },
+  {
+    "id": 9,
+    "name": "Сербская колбаса 'Kulen'",
+    "price": "950 ₽",
+    "description": "Традиционная сербская колбаса Kulen. Острая и ароматная.",
+    "country": "Сербия",
+    "category": "Продукты питания",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "food"]
+  },
+  {
+    "id": 10,
+    "name": "Сербский кофе 'Dzvezda'",
+    "price": "450 ₽",
+    "description": "Традиционный сербский кофе. Готовится в джезве по старинному рецепту.",
+    "country": "Сербия",
+    "category": "Напитки",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "drinks"]
+  },
+  {
+    "id": 11,
+    "name": "Сербское пиво 'Lav'",
+    "price": "280 ₽",
+    "description": "Светлое сербское пиво Lav. Легкий и освежающий вкус.",
+    "country": "Сербия",
+    "category": "Алкоголь",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "alcohol"]
+  },
+  {
+    "id": 12,
+    "name": "Сербская паста 'Ajvar'",
+    "price": "350 ₽",
+    "description": "Традиционная сербская паста из болгарского перца. Острая и вкусная.",
+    "country": "Сербия",
+    "category": "Продукты питания",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "food"]
+  },
+  {
+    "id": 13,
+    "name": "Сербская минеральная вода 'Rosa'",
+    "price": "110 ₽",
+    "description": "Газированная минеральная вода Rosa. Освежающая и полезная.",
+    "country": "Сербия",
+    "category": "Напитки",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "drinks"]
+  },
+  {
+    "id": 14,
+    "name": "Сербское вино 'Tamjanika'",
+    "price": "1600 ₽",
+    "description": "Белое сербское вино из сорта винограда Tamjanika. Цветочный аромат.",
+    "country": "Сербия",
+    "category": "Алкоголь",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "alcohol"]
+  },
+  {
+    "id": 15,
+    "name": "Сербские орехи 'Lesnik'",
+    "price": "750 ₽",
+    "description": "Свежие сербские лесные орехи. Богаты витаминами и минералами.",
+    "country": "Сербия",
+    "category": "Продукты питания",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "food"]
+  },
+  {
+    "id": 16,
+    "name": "Сербский ликер 'Pelinkovac'",
+    "price": "1200 ₽",
+    "description": "Традиционный сербский ликер из полыни. Горький и ароматный.",
+    "country": "Сербия",
+    "category": "Алкоголь",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "alcohol"]
+  },
+  {
+    "id": 17,
+    "name": "Сербский чай 'Kamilica'",
+    "price": "320 ₽",
+    "description": "Травяной сербский чай из ромашки. Успокаивающий и полезный.",
+    "country": "Сербия",
+    "category": "Напитки",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "drinks"]
+  },
+  {
+    "id": 18,
+    "name": "Сербская мука 'Dunav'",
+    "price": "180 ₽",
+    "description": "Высококачественная сербская мука для выпечки. Из мягких сортов пшеницы.",
+    "country": "Сербия",
+    "category": "Продукты питания",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "food"]
+  },
+  {
+    "id": 19,
+    "name": "Сербская соль 'Tuzla'",
+    "price": "90 ₽",
+    "description": "Натуральная сербская соль из соляных шахт. Богата минералами.",
+    "country": "Сербия",
+    "category": "Специи",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "spices"]
+  },
+  {
+    "id": 20,
+    "name": "Сербский уксус 'Vinograd'",
+    "price": "280 ₽",
+    "description": "Натуральный сербский винный уксус. Идеален для салатов и маринадов.",
+    "country": "Сербия",
+    "category": "Специи",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["serbia", "spices"]
+  }
+] 

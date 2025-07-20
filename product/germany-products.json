@@ -1,0 +1,102 @@
+[
+  {
+    "id": 65,
+    "name": "Немецкое пиво 'Weihenstephaner'",
+    "price": "280 ₽",
+    "description": "Классическое немецкое пиво Weihenstephaner. Чистый вкус и традиционный рецепт.",
+    "country": "Германия",
+    "category": "Алкоголь",
+    "images": ["https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"],
+    "tags": ["germany", "alcohol"]
+  },
+  {
+    "id": 66,
+    "name": "Немецкие колбаски 'Bratwurst'",
+    "price": "850 ₽",
+    "description": "Традиционные немецкие колбаски Bratwurst. Изготовлены по старинным рецептам.",
+    "country": "Германия",
+    "category": "Продукты питания",
+    "images": ["https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"],
+    "tags": ["germany", "food"]
+  },
+  {
+    "id": 71,
+    "name": "Немецкое пиво 'Paulaner'",
+    "price": "290 ₽",
+    "description": "Немецкое пиво Paulaner. Мюнхенское пиво высшего качества.",
+    "country": "Германия",
+    "category": "Алкоголь",
+    "images": ["https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"],
+    "tags": ["germany", "alcohol"]
+  },
+  {
+    "id": 72,
+    "name": "Немецкие колбаски 'Weisswurst'",
+    "price": "920 ₽",
+    "description": "Немецкие белые колбаски Weisswurst. Баварская традиция.",
+    "country": "Германия",
+    "category": "Продукты питания",
+    "images": ["https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"],
+    "tags": ["germany", "food"]
+  },
+  {
+    "id": 77,
+    "name": "Немецкое пиво 'Erdinger'",
+    "price": "310 ₽",
+    "description": "Немецкое пшеничное пиво Erdinger. Баварская традиция.",
+    "country": "Германия",
+    "category": "Алкоголь",
+    "images": ["https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"],
+    "tags": ["germany", "alcohol"]
+  },
+  {
+    "id": 78,
+    "name": "Немецкие колбаски 'Currywurst'",
+    "price": "780 ₽",
+    "description": "Немецкие колбаски Currywurst. С карри соусом.",
+    "country": "Германия",
+    "category": "Продукты питания",
+    "images": ["https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"],
+    "tags": ["germany", "food"]
+  },
+  {
+    "id": 83,
+    "name": "Немецкое пиво 'Bitburger'",
+    "price": "275 ₽",
+    "description": "Немецкое пиво Bitburger. Пилзнерское пиво.",
+    "country": "Германия",
+    "category": "Алкоголь",
+    "images": ["https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"],
+    "tags": ["germany", "alcohol"]
+  },
+  {
+    "id": 84,
+    "name": "Немецкие колбаски 'Leberwurst'",
+    "price": "680 ₽",
+    "description": "Немецкая печеночная колбаса Leberwurst. Традиционная.",
+    "country": "Германия",
+    "category": "Продукты питания",
+    "images": ["https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"],
+    "tags": ["germany", "food"]
+  },
+  {
+    "id": 89,
+    "name": "Немецкое пиво 'Krombacher'",
+    "price": "285 ₽",
+    "description": "Немецкое пиво Krombacher. Крепкое пиво.",
+    "country": "Германия",
+    "category": "Алкоголь",
+    "images": ["https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"],
+    "tags": ["germany", "alcohol"]
+  },
+  {
+    "id": 90,
+    "name": "Немецкие колбаски 'Mettwurst'",
+    "price": "720 ₽",
+    "description": "Немецкие колбаски Mettwurst. Сырокопченая колбаса.",
+    "country": "Германия",
+    "category": "Продукты питания",
+    "images": ["https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"],
+    "tags": ["germany", "food"]
+  }
+] 

@@ -1,0 +1,282 @@
+[
+  {
+    "id": 41,
+    "name": "Китайский чайник 'Исин'",
+    "price": "2500 ₽",
+    "description": "Традиционный китайский чайник из исинской глины. Идеально подходит для заваривания улуна и пуэра.",
+    "country": "Китай",
+    "category": "Посуда",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "kitchen"]
+  },
+  {
+    "id": 42,
+    "name": "Китайский шелк 'Ханчжоу'",
+    "price": "3500 ₽",
+    "description": "Натуральный китайский шелк из Ханчжоу. Высшего качества для пошива одежды.",
+    "country": "Китай",
+    "category": "Ткани",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "fabric"]
+  },
+  {
+    "id": 43,
+    "name": "Китайский чай 'Лунцзин'",
+    "price": "1200 ₽",
+    "description": "Элитный китайский зеленый чай Лунцзин. Свежий и ароматный.",
+    "country": "Китай",
+    "category": "Напитки",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "drinks"]
+  },
+  {
+    "id": 44,
+    "name": "Китайская ваза 'Мин'",
+    "price": "5200 ₽",
+    "description": "Антикварная китайская ваза эпохи Мин. Традиционные узоры и роспись.",
+    "country": "Китай",
+    "category": "Антиквариат",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "antique"]
+  },
+  {
+    "id": 45,
+    "name": "Китайский рис 'Жасмин'",
+    "price": "450 ₽",
+    "description": "Ароматный китайский рис Жасмин. Длиннозерный и рассыпчатый.",
+    "country": "Китай",
+    "category": "Продукты питания",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "food"]
+  },
+  {
+    "id": 46,
+    "name": "Китайский чай 'Тегуаньинь'",
+    "price": "1800 ₽",
+    "description": "Китайский улун Тегуаньинь. Богатый вкус и цветочный аромат.",
+    "country": "Китай",
+    "category": "Напитки",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "drinks"]
+  },
+  {
+    "id": 47,
+    "name": "Китайская ваза 'Цин'",
+    "price": "4800 ₽",
+    "description": "Китайская ваза эпохи Цин. Сине-белая роспись.",
+    "country": "Китай",
+    "category": "Антиквариат",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "antique"]
+  },
+  {
+    "id": 48,
+    "name": "Китайский шелк 'Сучжоу'",
+    "price": "4200 ₽",
+    "description": "Китайский шелк из Сучжоу. Вышивка и узоры.",
+    "country": "Китай",
+    "category": "Ткани",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "fabric"]
+  },
+  {
+    "id": 49,
+    "name": "Китайский чай 'Пуэр'",
+    "price": "2200 ₽",
+    "description": "Китайский чай Пуэр. Выдержанный и землистый вкус.",
+    "country": "Китай",
+    "category": "Напитки",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "drinks"]
+  },
+  {
+    "id": 50,
+    "name": "Китайская ваза 'Тан'",
+    "price": "5500 ₽",
+    "description": "Китайская ваза эпохи Тан. Трехцветная глазурь.",
+    "country": "Китай",
+    "category": "Антиквариат",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "antique"]
+  },
+  {
+    "id": 51,
+    "name": "Китайский чайник 'Цзыша'",
+    "price": "3200 ₽",
+    "description": "Китайский чайник из цзыша глины. Фиолетовая глина.",
+    "country": "Китай",
+    "category": "Посуда",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "kitchen"]
+  },
+  {
+    "id": 52,
+    "name": "Китайский рис 'Короткозерный'",
+    "price": "380 ₽",
+    "description": "Китайский короткозерный рис. Клейкий и ароматный.",
+    "country": "Китай",
+    "category": "Продукты питания",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "food"]
+  },
+  {
+    "id": 53,
+    "name": "Китайский чай 'Билочунь'",
+    "price": "1600 ₽",
+    "description": "Китайский зеленый чай Билочунь. Нежный и свежий.",
+    "country": "Китай",
+    "category": "Напитки",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "drinks"]
+  },
+  {
+    "id": 54,
+    "name": "Китайская ваза 'Сун'",
+    "price": "5100 ₽",
+    "description": "Китайская ваза эпохи Сун. Целадоновая глазурь.",
+    "country": "Китай",
+    "category": "Антиквариат",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "antique"]
+  },
+  {
+    "id": 55,
+    "name": "Китайский шелк 'Нанкин'",
+    "price": "3800 ₽",
+    "description": "Китайский шелк из Нанкина. Традиционные узоры.",
+    "country": "Китай",
+    "category": "Ткани",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "fabric"]
+  },
+  {
+    "id": 56,
+    "name": "Китайский чай 'Да Хун Пао'",
+    "price": "2800 ₽",
+    "description": "Китайский улун Да Хун Пао. Королевский чай.",
+    "country": "Китай",
+    "category": "Напитки",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "drinks"]
+  },
+  {
+    "id": 57,
+    "name": "Китайская ваза 'Хань'",
+    "price": "4700 ₽",
+    "description": "Китайская ваза эпохи Хань. Бронзовая инкрустация.",
+    "country": "Китай",
+    "category": "Антиквариат",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "antique"]
+  },
+  {
+    "id": 58,
+    "name": "Китайский чайник 'Гайвань'",
+    "price": "1800 ₽",
+    "description": "Китайский чайник Гайвань. Традиционная форма.",
+    "country": "Китай",
+    "category": "Посуда",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "kitchen"]
+  },
+  {
+    "id": 59,
+    "name": "Китайский рис 'Красный'",
+    "price": "520 ₽",
+    "description": "Китайский красный рис. Полезный и питательный.",
+    "country": "Китай",
+    "category": "Продукты питания",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "food"]
+  },
+  {
+    "id": 60,
+    "name": "Китайский чай 'Хуаншань Маофэн'",
+    "price": "1400 ₽",
+    "description": "Китайский зеленый чай Хуаншань Маофэн. Горный чай.",
+    "country": "Китай",
+    "category": "Напитки",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["china", "drinks"]
+  }
+] 

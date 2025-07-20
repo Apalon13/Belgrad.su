@@ -1,0 +1,102 @@
+[
+  {
+    "id": 61,
+    "name": "Чешское пиво 'Pilsner Urquell'",
+    "price": "300 ₽",
+    "description": "Классическое чешское пиво Pilsner Urquell. Светлое и освежающее.",
+    "country": "Чехия",
+    "category": "Алкоголь",
+    "images": ["https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"],
+    "tags": ["czech", "alcohol"]
+  },
+  {
+    "id": 62,
+    "name": "Чешский хрусталь 'Moser'",
+    "price": "4200 ₽",
+    "description": "Изделия из чешского хрусталя Moser. Элегантные бокалы ручной работы.",
+    "country": "Чехия",
+    "category": "Посуда",
+    "images": ["https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"],
+    "tags": ["czech", "glassware"]
+  },
+  {
+    "id": 67,
+    "name": "Чешское пиво 'Budweiser Budvar'",
+    "price": "320 ₽",
+    "description": "Чешское пиво Budweiser Budvar. Оригинальное чешское пиво.",
+    "country": "Чехия",
+    "category": "Алкоголь",
+    "images": ["https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"],
+    "tags": ["czech", "alcohol"]
+  },
+  {
+    "id": 68,
+    "name": "Чешский хрусталь 'Bohemia'",
+    "price": "3800 ₽",
+    "description": "Чешский хрусталь Bohemia. Вазы и декоративные изделия.",
+    "country": "Чехия",
+    "category": "Посуда",
+    "images": ["https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"],
+    "tags": ["czech", "glassware"]
+  },
+  {
+    "id": 73,
+    "name": "Чешское пиво 'Kozel'",
+    "price": "270 ₽",
+    "description": "Чешское пиво Kozel. Темное и насыщенное.",
+    "country": "Чехия",
+    "category": "Алкоголь",
+    "images": ["https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"],
+    "tags": ["czech", "alcohol"]
+  },
+  {
+    "id": 74,
+    "name": "Чешский хрусталь 'Preciosa'",
+    "price": "4500 ₽",
+    "description": "Чешский хрусталь Preciosa. Люстры и светильники.",
+    "country": "Чехия",
+    "category": "Посуда",
+    "images": ["https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"],
+    "tags": ["czech", "glassware"]
+  },
+  {
+    "id": 79,
+    "name": "Чешское пиво 'Staropramen'",
+    "price": "260 ₽",
+    "description": "Чешское пиво Staropramen. Пражская традиция.",
+    "country": "Чехия",
+    "category": "Алкоголь",
+    "images": ["https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"],
+    "tags": ["czech", "alcohol"]
+  },
+  {
+    "id": 80,
+    "name": "Чешский хрусталь 'Crystalex'",
+    "price": "3600 ₽",
+    "description": "Чешский хрусталь Crystalex. Столовая посуда.",
+    "country": "Чехия",
+    "category": "Посуда",
+    "images": ["https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"],
+    "tags": ["czech", "glassware"]
+  },
+  {
+    "id": 85,
+    "name": "Чешское пиво 'Gambrinus'",
+    "price": "240 ₽",
+    "description": "Чешское пиво Gambrinus. Пльзеньская традиция.",
+    "country": "Чехия",
+    "category": "Алкоголь",
+    "images": ["https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"],
+    "tags": ["czech", "alcohol"]
+  },
+  {
+    "id": 86,
+    "name": "Чешский хрусталь 'Egermann'",
+    "price": "5200 ₽",
+    "description": "Чешский хрусталь Egermann. Цветное стекло.",
+    "country": "Чехия",
+    "category": "Посуда",
+    "images": ["https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"],
+    "tags": ["czech", "glassware"]
+  }
+] 

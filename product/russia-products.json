@@ -1,0 +1,282 @@
+[
+  {
+    "id": 21,
+    "name": "Русская икра 'Осетр'",
+    "price": "4500 ₽",
+    "description": "Черная икра из осетровых рыб. Деликатесный продукт с богатым вкусом.",
+    "country": "Россия",
+    "category": "Деликатесы",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "delicacy"]
+  },
+  {
+    "id": 22,
+    "name": "Русская матрешка 'Хохлома'",
+    "price": "800 ₽",
+    "description": "Традиционная русская матрешка с хохломской росписью. Ручная работа.",
+    "country": "Россия",
+    "category": "Сувениры",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "souvenirs"]
+  },
+  {
+    "id": 23,
+    "name": "Русский мед 'Липовый'",
+    "price": "950 ₽",
+    "description": "Натуральный русский липовый мед. Сладкий и ароматный.",
+    "country": "Россия",
+    "category": "Продукты питания",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "food"]
+  },
+  {
+    "id": 24,
+    "name": "Русская водка 'Столичная'",
+    "price": "1200 ₽",
+    "description": "Классическая русская водка. Чистая и качественная.",
+    "country": "Россия",
+    "category": "Алкоголь",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "alcohol"]
+  },
+  {
+    "id": 25,
+    "name": "Русский чай 'Улун'",
+    "price": "650 ₽",
+    "description": "Элитный русский чай улун. Богатый вкус и аромат.",
+    "country": "Россия",
+    "category": "Напитки",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "drinks"]
+  },
+  {
+    "id": 26,
+    "name": "Русская пастила 'Коломенская'",
+    "price": "420 ₽",
+    "description": "Традиционная русская пастила из яблок. Сладкая и нежная.",
+    "country": "Россия",
+    "category": "Продукты питания",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "food"]
+  },
+  {
+    "id": 27,
+    "name": "Русский самовар 'Тула'",
+    "price": "3500 ₽",
+    "description": "Традиционный русский самовар из Тулы. Антикварное изделие.",
+    "country": "Россия",
+    "category": "Посуда",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "kitchen"]
+  },
+  {
+    "id": 28,
+    "name": "Русская икра 'Красная'",
+    "price": "2800 ₽",
+    "description": "Красная икра из лососевых рыб. Праздничный деликатес.",
+    "country": "Россия",
+    "category": "Деликатесы",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "delicacy"]
+  },
+  {
+    "id": 29,
+    "name": "Русская валенка 'Сибирская'",
+    "price": "1800 ₽",
+    "description": "Традиционные русские валенки. Теплые и комфортные.",
+    "country": "Россия",
+    "category": "Одежда",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "clothing"]
+  },
+  {
+    "id": 30,
+    "name": "Русский квас 'Домашний'",
+    "price": "180 ₽",
+    "description": "Традиционный русский квас. Освежающий и полезный напиток.",
+    "country": "Россия",
+    "category": "Напитки",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "drinks"]
+  },
+  {
+    "id": 31,
+    "name": "Русская матрешка 'Гжель'",
+    "price": "950 ₽",
+    "description": "Русская матрешка с гжельской росписью. Сине-белая красота.",
+    "country": "Россия",
+    "category": "Сувениры",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "souvenirs"]
+  },
+  {
+    "id": 32,
+    "name": "Русская водка 'Пшеничная'",
+    "price": "1100 ₽",
+    "description": "Русская водка из пшеницы. Мягкий и чистый вкус.",
+    "country": "Россия",
+    "category": "Алкоголь",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "alcohol"]
+  },
+  {
+    "id": 33,
+    "name": "Русский мед 'Гречишный'",
+    "price": "880 ₽",
+    "description": "Русский гречишный мед. Темный и полезный.",
+    "country": "Россия",
+    "category": "Продукты питания",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "food"]
+  },
+  {
+    "id": 34,
+    "name": "Русская матрешка 'Палех'",
+    "price": "1200 ₽",
+    "description": "Русская матрешка с палехской росписью. Миниатюрная живопись.",
+    "country": "Россия",
+    "category": "Сувениры",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "souvenirs"]
+  },
+  {
+    "id": 35,
+    "name": "Русский чай 'Пуэр'",
+    "price": "750 ₽",
+    "description": "Русский чай пуэр. Выдержанный и ароматный.",
+    "country": "Россия",
+    "category": "Напитки",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "drinks"]
+  },
+  {
+    "id": 36,
+    "name": "Русская икра 'Севрюга'",
+    "price": "5200 ₽",
+    "description": "Черная икра из севрюги. Элитный деликатес.",
+    "country": "Россия",
+    "category": "Деликатесы",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "delicacy"]
+  },
+  {
+    "id": 37,
+    "name": "Русская водка 'Ржаная'",
+    "price": "1300 ₽",
+    "description": "Русская водка из ржи. Крепкий и традиционный вкус.",
+    "country": "Россия",
+    "category": "Алкоголь",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "alcohol"]
+  },
+  {
+    "id": 38,
+    "name": "Русская матрешка 'Жостово'",
+    "price": "1100 ₽",
+    "description": "Русская матрешка с жостовской росписью. Цветочные мотивы.",
+    "country": "Россия",
+    "category": "Сувениры",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "souvenirs"]
+  },
+  {
+    "id": 39,
+    "name": "Русский мед 'Акациевый'",
+    "price": "920 ₽",
+    "description": "Русский акациевый мед. Светлый и нежный.",
+    "country": "Россия",
+    "category": "Продукты питания",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "food"]
+  },
+  {
+    "id": 40,
+    "name": "Русская матрешка 'Федоскино'",
+    "price": "1400 ₽",
+    "description": "Русская матрешка с федоскинской росписью. Лаковые миниатюры.",
+    "country": "Россия",
+    "category": "Сувениры",
+    "images": [
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+    ],
+    "tags": ["russia", "souvenirs"]
+  }
+] 
